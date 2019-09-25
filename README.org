@@ -1,0 +1,4 @@
+#+TITLE: Tunes
+
+* Making music with Alda!
+- Playing with music in Alda. Main focus is to explore music theory and understand patterns in popular music.
