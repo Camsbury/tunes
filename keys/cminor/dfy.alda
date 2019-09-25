@@ -1,0 +1,16 @@
+(tempo 60)
+
+
+piano "bass":
+        c+1./e1./g+1. r3 r8
+        b1./d+1./f+1. r3 r8
+        a1./c+1./e1.
+        b1./d+1./f+1.
+
+
+
+piano "treble":
+        g+4 g+4 g+4 f+8 b3 g+4 g+8 f+8 e8 f+8
+        g+4 g+4 g+4 f+8 b3 g+4 g+8 f+8 e8 f+8
+        g+4 b8 g+2 r8 e8 f+8 e8 f+8
+        g+4 b8 g+3 f+2.
